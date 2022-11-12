@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJonka
 - 👀 I’m interested in movies. 
-- 🌱 I’m currently learning Phyton.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on interesing projects.
 - 📫 How to reach me: joanna.jurasz21@gmail.com
 
