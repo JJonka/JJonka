@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JJonka
 - 👀 I’m interested in movies. 
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on interesing projects.
+- 🌱 I’m currently working with React and Next.js, building microfrontends and components library.
 - 📫 How to reach me: joanna.jurasz21@gmail.com
 
 <!---
